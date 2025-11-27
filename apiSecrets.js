@@ -1,1 +1,3 @@
 api_key=ABCDEFG1234567890qwertyPublic
+
+Password=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
