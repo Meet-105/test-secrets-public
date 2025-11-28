@@ -6,5 +6,3 @@ Password=REMOVED
 
 Password=ghp_temp
 
-Temp
-
